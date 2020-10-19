@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="nama">Brahmantya Adi S</string>
+    <string name="toko_member">Toko Member</string>
+    <string name="kupon">Kupon</string>
+    <string name="toko_point">Toko Point</string>
+    <string name="dana_di_tokopedia">Dana di Tokopedia</string>
+    <string name="rp_01">Rp 0</string>
+    <string name="rp_02">Rp 0</string>
+    <string name="point">Point</string>
+    <string name="saldo">Saldo</string>
+    <string name="logo">logo</string>
+    <string name="profil">profil</string>
+    <string name="ovo">ovo</string>
+    <string name="home">home</string>
+    <string name="promo">promo</string>
+    <string name="dana">dana</string>
+    <string name="akun">akun</string>
+    <string name="keranjang">keranjang</string>
+</resources>
